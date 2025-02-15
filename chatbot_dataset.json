@@ -1,0 +1,5 @@
+[
+    {"prompt": "Hello!", "response": "Hi! How can I assist you?"},
+    {"prompt": "What is AI?", "response": "AI stands for Artificial Intelligence, which mimics human intelligence."},
+    {"prompt": "Tell me a joke.", "response": "Why don’t skeletons fight each other? Because they don’t have the guts!"}
+]
